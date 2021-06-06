@@ -30,4 +30,6 @@ To be able see on your local machine please clone the repository, or download th
 
 * * The second, type "cd client" commands to the terminal to go into client folder, and type "npm start" to terminal when you are in client folder.
 
+Every thing except client folder belong to server side. Long story short, I deployed the back-end part of app on Heroku, and front-end (Client side) on Netlify.
+
 There are some small bugs which will be fixed soon, and one of them is you need to refresh the page to see delete icon and your name on the navbar after you login.
