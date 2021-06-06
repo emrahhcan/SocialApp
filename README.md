@@ -12,11 +12,16 @@ To be able see on your local machine please clone the repository, or download th
 
 * After all, add a config.js file into the main folder put your MongoDB database connection and your key. It must be like shown below.
 
-**    module.exports = {
+**  module.exports = {
+
         MONGODB: 
+        
             'mongodb+srv://usernam:password@cluster0.ktfkz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
+            
         SECRET_KEY: 
+        
             'Secret Key'
+            
     };
   
 * Last, there are two steps to get done.
