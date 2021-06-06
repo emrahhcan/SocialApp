@@ -14,7 +14,7 @@ To be able see on your local machine please clone the repository, or download th
 
 **    module.exports = {
         MONGODB: 
-            'mongodb+srv://<username>:<password>@cluster0.ktfkz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
+            'mongodb+srv://usernam:password@cluster0.ktfkz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
         SECRET_KEY: 
             'Secret Key'
     };
