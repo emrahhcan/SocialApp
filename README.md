@@ -1,6 +1,6 @@
 # SocialApp
 
-Basic social media app which has created by using React for front-end, NodeJS, Express, with graphQL for back-end, and MongoDB Atlas which is based on NOSQL.
+Basic full stack social media app which has created by using JavaScript technologies with GraphQL which are React for front-end, NodeJS, Express, with GraphQL for back-end, and MongoDB Atlas which is based on NOSQL.
 
 Please check out URL given below to be able to visit the site.
 
