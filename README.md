@@ -4,7 +4,7 @@ Basic social media app which has created by using React for front-end, NodeJS, E
 
 Please check out URL given below to be able to visit the site.
 
-https://fullstacksocialapp.netlify.app
+* https://fullstacksocialapp.netlify.app
 
 To be able see on your local machine please clone the repository, or download the zip file from repository. 
 
