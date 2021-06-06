@@ -12,7 +12,7 @@ To be able see on your local machine please clone the repository, or download th
 
 * After all, add a config.js file into the main folder put your MongoDB database connection and your key. It must be like shown below.
 
-**  module.exports = {
+        module.exports = {
 
         MONGODB: 
         
@@ -22,7 +22,7 @@ To be able see on your local machine please clone the repository, or download th
         
             'Secret Key'
             
-    };
+        };
   
 * Last, there are two steps to get done.
 
