@@ -15,7 +15,7 @@ Please check out URL given below to be able to visit the site.
 
 * To be able see on your local machine please clone the repository, or download the zip file from repository. 
 * Then, open it with your text editor such as VS Code.
-* Add Node Modules into the main folder as well as into the client folder
+* Add Node Modules into the main folder as well as into the client folder.
 
 * After all, add a config.js file into the main folder put your MongoDB database connection and your key. It must be like shown below.
 
