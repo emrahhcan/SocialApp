@@ -11,9 +11,11 @@ Please check out URL given below to be able to visit the site.
 
 * https://fullstacksocialapp.netlify.app
 
-To be able see on your local machine please clone the repository, or download the zip file from repository. 
+# How to Use on Local Machine
 
-* Then, open it with your text editor such as VS Code
+* To be able see on your local machine please clone the repository, or download the zip file from repository. 
+
+* Then, open it with your text editor such as VS Code.
 
 * After all, add a config.js file into the main folder put your MongoDB database connection and your key. It must be like shown below.
 
@@ -34,6 +36,8 @@ To be able see on your local machine please clone the repository, or download th
 * * The first, open the terminal/bash then type "npm start" when you are in the main folder.
 
 * * The second, type "cd client" commands to the terminal to go into client folder, and type "npm start" to terminal when you are in client folder.
+
+# Notes
 
 Every thing except client folder belong to server side. Long story short, I deployed the back-end part of app on Heroku, and front-end (Client side) on Netlify.
 
