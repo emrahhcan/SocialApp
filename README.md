@@ -7,7 +7,7 @@ All password are hashed using Bycrpt.
 Sessions are managed with JSON Web Token which means your log in time is limited within 1 hour. 
 * Then, you need to log in again because your unique token will change automaticly.
 
-* Please check out URL given below to be able to visit the site.
+Please check out URL given below to be able to visit the site.
 
 * https://fullstacksocialapp.netlify.app
 
