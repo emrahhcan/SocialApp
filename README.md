@@ -14,8 +14,8 @@ Please check out URL given below to be able to visit the site.
 # How to Use on Local Machine
 
 * To be able see on your local machine please clone the repository, or download the zip file from repository. 
-
 * Then, open it with your text editor such as VS Code.
+* Add Node Modules into the main folder as well as into the client folder
 
 * After all, add a config.js file into the main folder put your MongoDB database connection and your key. It must be like shown below.
 
@@ -32,9 +32,7 @@ Please check out URL given below to be able to visit the site.
         };
   
 * Last, there are two steps to get done.
-
 * * The first, open the terminal/bash then type "npm start" when you are in the main folder.
-
 * * The second, type "cd client" commands to the terminal to go into client folder, and type "npm start" to terminal when you are in client folder.
 
 # Notes
