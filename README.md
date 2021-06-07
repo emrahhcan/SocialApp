@@ -2,7 +2,11 @@
 
 Basic full stack social media app which has created by using JavaScript technologies with GraphQL which are React for front-end, NodeJS, Express, with GraphQL for back-end, and MongoDB Atlas which is based on NOSQL.
 
-Please check out URL given below to be able to visit the site.
+All password are hashed using Bycrpt.
+
+Sessions are managed with JSON Web Token which means your log in time is limited within 1 hour. After, you need to log in again
+
+* Please check out URL given below to be able to visit the site.
 
 * https://fullstacksocialapp.netlify.app
 
