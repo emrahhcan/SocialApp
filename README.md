@@ -43,4 +43,4 @@ There are some small bugs which will be fixed soon, and one of them is you need 
 
 Seeing on the local machine needs a lot of work to do, so you can kindly visit the given URL above.
 
-Images might upload slowly due to Netlify, and Heroku free hosting, so please give it some time to respond.
+Website might upload slowly due to Netlify, and Heroku free hosting, so please give it some time to respond.
