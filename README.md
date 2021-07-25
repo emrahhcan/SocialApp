@@ -11,7 +11,7 @@ Please check out URL given below to be able to visit the site.
 
 * https://fullstacksocialapp.netlify.app
 
-# How to Use on Local Machine
+## How to Use on Local Machine
 
 * To be able see on your local machine please clone the repository, or download the zip file from repository. 
 * Then, open it with your text editor such as VS Code.
@@ -35,7 +35,7 @@ Please check out URL given below to be able to visit the site.
 * * The second, type "cd .." come back to main folder then type "cd client", add Node Modules(type "npm init" to terminal), and command to the terminal to go into client folder, and type "npm start" to terminal when you are in client folder.
 * Do not forget to add Node Modules into Server folder as well as into the client folder.
 
-# Notes
+## Notes
 
 Every thing except client folder belong to server side. Long story short, I deployed the back-end part of app on Heroku, and front-end (Client side) on Netlify.
 
