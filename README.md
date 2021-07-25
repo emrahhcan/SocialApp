@@ -9,7 +9,7 @@ Basic full stack social media app which has created by using JavaScript technolo
 
 Please check out URL given below to be able to visit the site.
 
-* https://fullstacksocialapp.netlify.app
+[Click Here to Visit URL](https://fullstacksocialapp.netlify.app)
 
 ## How to Use on Local Machine
 
